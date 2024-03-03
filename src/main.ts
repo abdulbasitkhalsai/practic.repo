@@ -17,12 +17,6 @@ console.log(personName.toLocaleLowerCase());
 //console.log(personName.toTitleCase()) //Title Case syntax issue observed.
 
 
-
-
-
-
-
-
 //Q#4
 console.log("Muhammad Ali Jinnah said, Failure is the word unknow to me");
 
