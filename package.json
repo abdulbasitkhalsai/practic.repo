@@ -1,0 +1,15 @@
+{
+  "name": "practic.repo",
+  "version": "1.0.0",
+  "description": "</br>\r This is my first repository for practicing JavaScript, Typescript &amp; much more\r </br>\r Author Name : Abdul Basit Khalsai",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
